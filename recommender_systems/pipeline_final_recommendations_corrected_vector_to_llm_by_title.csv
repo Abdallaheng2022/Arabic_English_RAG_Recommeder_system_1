@@ -1,0 +1,11 @@
+title,score,vector_similarity_score,justification
+The Catcher in the Rye,0.95,0.295402467250824,"You enjoyed modern American classics like The Great Gatsby and To Kill a Mockingbird; The Catcher in the Rye is another iconic coming-of-age novel with a strong, memorable voice and themes of alienation."
+Pride and Prejudice,0.9,0.3210224509239197,"Since you appreciate literary classics with social commentary, Pride and Prejudice offers sharp wit and insight into society, much like the books you've read."
+The Kite Runner,0.85,,"The Kite Runner explores themes of morality, friendship, and redemption in a historical context, resonating with the emotional depth and social issues found in your previous reads."
+The Book Thief,0.8,0.32384029030799866,"The Book Thief is a moving historical novel with a young protagonist, blending coming-of-age elements and social critique similar to To Kill a Mockingbird."
+Lord of the Flies ,0.78,0.3507191240787506,"If you liked the exploration of human nature and morality in your previous books, Lord of the Flies offers a darker, allegorical take on these themes."
+Little Women,0.75,0.36216843128204346,"Little Women is a beloved classic about family, growth, and society, with strong character development and period detail akin to The Great Gatsby and To Kill a Mockingbird."
+The Secret Life of Bees,0.7,0.37515905499458313,"This novel explores race, family, and coming-of-age in the American South, echoing the themes and setting of To Kill a Mockingbird."
+A Tree Grows in Brooklyn,0.68,,"A Tree Grows in Brooklyn is a coming-of-age story set in early 20th-century America, focusing on family, resilience, and social class, which aligns with your interest in character-driven classics."
+The Help,0.65,0.3740113377571106,"The Help deals with race, class, and social change in the American South, providing a modern perspective on themes found in To Kill a Mockingbird."
+Jane Eyre,0.6,0.3401390016078949,"Jane Eyre is a classic novel with a strong, independent protagonist and social critique, which may appeal to your appreciation for literary depth and character-driven stories."
